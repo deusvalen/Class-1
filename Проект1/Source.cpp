@@ -15,6 +15,12 @@ class lab1{
 			cout << "tebe " << j << " let"<< endl;
 	    }
 
+		void Text()
+		{
+
+			cout << "My name is Andrey" << endl;
+		}
+
 
 };
 
